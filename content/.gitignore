@@ -1,0 +1,11 @@
+# Датасеты и большие файлы
+data/
+*.zip
+*.pth
+
+# Логи TensorBoard
+runs/
+
+# Системные файлы Python и IDE
+__pycache__/
+.ipynb_checkpoints/
