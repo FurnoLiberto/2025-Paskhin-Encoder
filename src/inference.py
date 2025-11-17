@@ -50,12 +50,10 @@ class Verifier:
             return False, cos_dist.item()
 
 if __name__ == '__main__':
-    # Пример использования
-    # Вам нужно указать корректные пути к файлам
+    # Нужно указать корректные пути к файлам
     # file1 и file2 - от одного диктора
     # file3 - от другого диктора
     
-    # ПРИМЕР: нужно найти реальные файлы в data/VCTK-Corpus/wav48/
     speaker1_file1 = "data/VCTK-Corpus/wav48/p225/p225_001.wav"
     speaker1_file2 = "data/VCTK-Corpus/wav48/p225/p225_002.wav"
     speaker2_file1 = "data/VCTK-Corpus/wav48/p226/p226_001.wav"
