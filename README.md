@@ -33,9 +33,7 @@
 Ниже представлены графики обучения, полученные с помощью TensorBoard.
 <img width="949" height="377" alt="изображение" src="https://github.com/user-attachments/assets/79935704-6271-4b0b-8a5d-73b812e088a4" />
 
-*(Вставьте сюда скриншоты графиков `train_loss` и `val_loss` из W&B)*
-
-![Loss Chart](link_to_your_chart_image.png)
+<img width="943" height="382" alt="изображение" src="https://github.com/user-attachments/assets/8aebb5b5-d743-468d-9485-b663790495f0" />
 
 ### Выводы
 
