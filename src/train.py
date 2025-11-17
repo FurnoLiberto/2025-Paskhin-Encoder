@@ -3,7 +3,7 @@ import torch.optim as optim
 from torch.utils.data import DataLoader, random_split
 from data_loader import VCTKDataset, mel_transform
 from models import SpeakerEncoderCNN
-from torch.utils.tensorboard import SummaryWriter # --- ИЗМЕНЕНИЕ 1 ---
+from torch.utils.tensorboard import SummaryWriter
 
 # Гиперпараметры
 CONFIG = {
